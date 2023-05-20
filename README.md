@@ -4,11 +4,17 @@ An implementation of the PPO algorithm written in Python using Pytorch. Recurren
 
 ### Pseudo code:
 
+![pseudocode](https://github.com/Ezgii/PPO-on-pendulum-extented/blob/main/pseudocode.png)
+
 
 ### Loss functions and learning curve:
+
+![results](https://github.com/Ezgii/PPO-on-pendulum-extented/blob/main/results/figure1.png)
 
 
 ### Testing Angle vs Time:
 
+![test](https://github.com/Ezgii/PPO-on-pendulum-extented/blob/main/results/figure2.png)
 
-### 
+
+
